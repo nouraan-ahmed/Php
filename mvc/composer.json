@@ -1,7 +1,7 @@
 {
     
-        "name": "test/micromvc",
-        "description": "micro mvc",
+        "name": "test/mvc",
+        "description": "mvc",
         "require": {
             "php": ">=7.4",
             "another-vendor/package": "1.*"
