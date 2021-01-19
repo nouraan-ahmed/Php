@@ -1,6 +1,6 @@
 {
     
-        "name": "test/mvc",
+        "name": "nouraan-ahmed/mvc",
         "description": "mvc",
         "require": {
             "php": "^7.2",
